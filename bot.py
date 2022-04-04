@@ -1,6 +1,4 @@
-from cmath import pi
-from distutils.command import upload
-from cv2 import DECOMP_QR
+
 import telebot
 
 CHAVE_API = "5233559558:AAH9U7XYmnLIe1wksNuGg7f32YiJjb2jsYs"
