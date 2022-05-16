@@ -7,4 +7,6 @@
   
 </p>
 
+<p> <img src="https://github.com/RAFAELSILVASALES/Bot_telegram/blob/main/photo_2022-05-16_16-37-59.jpg?raw=true"><p/>
+
 
